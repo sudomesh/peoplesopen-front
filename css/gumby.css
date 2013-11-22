@@ -89,7 +89,7 @@ html {
 
 body {
   background: white;
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   font-weight: 400;
   color: #555555;
   position: relative;
@@ -157,8 +157,55 @@ html, body {
   src: url("../fonts/icons/entypo.eot?#iefix") format("ie9-skip-eot"), url("../fonts/icons/entypo.woff") format("woff"), url("../fonts/icons/entypo.ttf") format("truetype");
 }
 
+/* Custom Font Faces */
+
+@font-face{
+    font-family: 'anaheimregular';
+    src: local('Anaheim');
+    src: url('../fonts/anaheim-regular-webfont.eot'),
+         url('../fonts/anaheim-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/anaheim-regular-webfont.woff') format('woff'),
+         url('../fonts/anaheim-regular-webfont.ttf') format('truetype'),
+         url('../fonts/anaheim-regular-webfont.svg#anaheimregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dosisbold';
+    src: url('../fonts/dosis-bold-webfont.eot');
+    src: url('../fonts/dosis-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/dosis-bold-webfont.woff') format('woff'),
+         url('../fonts/dosis-bold-webfont.ttf') format('truetype'),
+         url('../fonts/dosis-bold-webfont.svg#dosisbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dosislight';
+    src: url('../fonts/dosis-light-webfont.eot');
+    src: url('../fonts/dosis-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/dosis-light-webfont.woff') format('woff'),
+         url('../fonts/dosis-light-webfont.ttf') format('truetype'),
+         url('../fonts/dosis-light-webfont.svg#dosislight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dosisregular';
+    src: url('../fonts/dosis-regular-webfont.eot');
+    src: url('../fonts/dosis-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/dosis-regular-webfont.woff') format('woff'),
+         url('../fonts/dosis-regular-webfont.ttf') format('truetype'),
+         url('../fonts/dosis-regular-webfont.svg#dosisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto", sans-serif;
+  font-family: dosisregular, sans-serif;
   font-weight: 100;
   color: #444444;
   text-rendering: optimizeLegibility;
@@ -167,7 +214,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 0.273em;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #d04526;
+  color: #ca2470;
 }
 
 @media only screen and (max-width: 767px) {
@@ -240,7 +287,7 @@ h6 {
   
   ======================================================*/
 p {
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   font-weight: 400;
   font-size: 16px;
   font-size: 1rem;
@@ -261,7 +308,7 @@ p.lead {
 }
 
 a {
-  color: #d04526;
+  color: #ca2470;
   text-decoration: none;
   outline: 0;
   line-height: inherit;
@@ -3279,7 +3326,7 @@ img {
     border-bottom: 1px solid #313436;
   }
   .navbar ul li.active .dropdown ul li a:hover {
-    color: #d04526;
+    color: #ca2470;
   }
 }
 
@@ -3422,7 +3469,7 @@ img {
     border-bottom: 1px solid #313436;
   }
   .navbar li .dropdown.active .dropdown ul li a:hover {
-    color: #d04526;
+    color: #ca2470;
   }
 }
 
@@ -3452,7 +3499,7 @@ img {
 .navbar li .dropdown ul > li a {
   display: block;
   padding: 0 20px;
-  color: #d04526;
+  color: #ca2470;
   border-bottom: 1px solid #cccccc;
   text-shadow: none;
   height: 51px;
@@ -3523,7 +3570,7 @@ img {
     border-bottom: 1px solid #313436;
   }
   .gumby-no-touch .navbar ul li:hover .dropdown ul li a:hover {
-    color: #d04526;
+    color: #ca2470;
   }
 }
 
@@ -3599,7 +3646,7 @@ img {
   width: auto;
   background: #f2f2f2;
   -webkit-appearance: none;
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   font-weight: 600;
   padding: 0 !important;
   text-align: center;
@@ -7020,7 +7067,7 @@ form fieldset legend {
   outline: none;
   resize: none;
   -webkit-appearance: none;
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   font-weight: 300;
   font-size: 16px;
   font-size: 1rem;
@@ -7127,7 +7174,7 @@ form fieldset legend {
   padding: 0 10px 0 10px;
   background: #f2f2f2;
   border: 1px solid #d8d8d8;
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   font-weight: 600;
   color: #555555;
   font-size: 16px;
@@ -7407,7 +7454,7 @@ form fieldset legend {
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
   border-radius: 4px;
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   font-weight: 600;
   height: auto;
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #f2f2f2));
@@ -7472,7 +7519,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #ca2470;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -7486,7 +7533,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #ca2470;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -7508,7 +7555,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #ca2470;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -7522,7 +7569,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #ca2470;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -7536,7 +7583,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #ca2470;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -7554,7 +7601,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #ca2470;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -7568,7 +7615,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #ca2470;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -7598,7 +7645,7 @@ form fieldset legend {
 
 .alert {
   padding: 0 10px;
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   font-weight: 600;
   list-style-type: none;
   word-wrap: break-word;
@@ -7689,7 +7736,7 @@ form fieldset legend {
   padding: 0 16px;
   margin: 0;
   color: #555555;
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   font-weight: 600;
   border: 1px solid #e5e5e5;
   border-width: 1px 1px 0 1px;
@@ -7731,7 +7778,7 @@ form fieldset legend {
   padding: 0 16px;
   margin: 0;
   color: #555555;
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   font-weight: 600;
   border: 1px solid #e5e5e5;
   border-width: 1px 1px 0 1px;
@@ -8942,7 +8989,7 @@ input::-moz-focus-inner {
   background-size: cover;
   width: 100%;
   color: #fff;
-  border-top: 5px solid #ea5343;
+  border-top: 5px solid #20b24b;
 }
 
 .logo {
@@ -8951,7 +8998,7 @@ input::-moz-focus-inner {
   color: #fff;
 }
 .logo span {
-  color: #ea5343;
+  color: #20b24b;
 }
 
 .header-intro-wrap {
@@ -9037,7 +9084,7 @@ input::-moz-focus-inner {
 .input-side, .btn-side {
   padding: 20px;
   display: inline-block;
-  font-family: "Roboto", sans-serif;
+  font-family: anaheimregular, sans-serif;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -9057,18 +9104,18 @@ input::-moz-focus-inner {
   -webkit-appearance: none;
 }
 .input-side:focus {
-  border-color: #ea5343;
+  border-color: #20b24b;
 }
 
 .btn-side {
   width: 25%;
   margin-left: -5px;
-  border: 5px solid #ea5343;
-  font-size: 18px;
+  border: 5px solid #20b24b;
+  font-size: 24px;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
-  background-color: #ea5343;
+  background-color: #20b24b;
   -webkit-appearance: none;
   padding-left: 0;
   padding-right: 0;
@@ -9080,8 +9127,8 @@ input::-moz-focus-inner {
 }
 .btn-side:hover {
   cursor: pointer;
-  background-color: #ee7063;
-  border-color: #ee7063;
+  background-color: #f18f2b;
+  border-color: #f18f2b;
 }
 .btn-side:active {
   background-color: #e73e2c;
@@ -9130,8 +9177,8 @@ input::-moz-focus-inner {
   }
 }
 .features-item:hover .features-circle {
-  background-color: #e84635;
-  border-color: #ed6c5e;
+  background-color: #0A742A;
+  border-color: #f18f2b;
   border-width: 8px;
 }
 .features-item:hover .features-circle-icon {
@@ -9165,7 +9212,7 @@ input::-moz-focus-inner {
   display: block;
   position: relative;
   border-radius: 50%;
-  background-color: #ea5343;
+  background-color: #20b24b;
   width: 180px;
   height: 180px;
   margin: 0 auto 30px auto;
@@ -9293,7 +9340,7 @@ input::-moz-focus-inner {
 * Sign-Up Section
 *****************************************************/
 .section-signup {
-  background-color: #ea5343;
+  background-color: #20b24b;
   text-align: center;
 }
 
@@ -9330,8 +9377,8 @@ input::-moz-focus-inner {
   border: 5px solid #fff;
 }
 .signup-form .btn-side:hover {
-  border-color: #2b3848;
-  background-color: #2b3848;
+  border-color: #f18f2b;
+  background-color: #f18f2b;
 }
 .signup-form .btn-side:active {
   border-color: #1e2732;

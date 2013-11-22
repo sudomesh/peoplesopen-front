@@ -22,10 +22,20 @@
     font-size: 50px;
   }
   .btn-docs {
-    border-color: #ea5343;
+    border-color: #20b24b;
   }
   .site-header {
-    background-image: none;
+  }
+  .header-intro-wrap p {
+    margin-top: 20px;
+  }
+  .header-signup {
+  }
+  .header-intro-wrap .hs-disclaimer {
+    margin-top:50px;
+  }
+  .header-intro-wrap {
+    padding-bottom: 50px;
   }
 }
 
