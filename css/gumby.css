@@ -9015,7 +9015,7 @@ input::-moz-focus-inner {
 }
 .header-intro-wrap .hs-disclaimer {
   margin-top: 15px;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 300;
   color: #E9E9E9;
 }
@@ -9129,11 +9129,17 @@ input::-moz-focus-inner {
   cursor: pointer;
   background-color: #f18f2b;
   border-color: #f18f2b;
+  color:#333;
 }
 .btn-side:active {
   background-color: #e73e2c;
   border-color: #e73e2c;
 }
+.btn-join {
+  border: 5px solid #ca2470;
+  background-color: #ca2470;
+}
+
 @media screen and (max-width: 500px) {
   .btn-side {
     font-size: 17px;
@@ -9177,8 +9183,8 @@ input::-moz-focus-inner {
   }
 }
 .features-item:hover .features-circle {
-  background-color: #0A742A;
-  border-color: #f18f2b;
+  background-color: #f18f2b;
+  border-color: #c03d20;
   border-width: 8px;
 }
 .features-item:hover .features-circle-icon {
