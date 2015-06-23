@@ -2217,6 +2217,7 @@ abbr {
   margin-left: -119.14062%;
 }
 .sixteen.colgrid .row .pull_eight.eleven.columns:first-child {
+
   margin-left: 0;
 }
 .sixteen.colgrid .row .pull_eight.twelve.columns {
@@ -3112,9 +3113,10 @@ img {
   width: 100%;
   min-height: 60px;
   display: block;
-  margin-bottom: 20px;
-  background: #4a4d50;
+  margin-bottom: 0px;
+  background: #20b24b;
   position: relative;
+  
 }
 @media only screen and (max-width: 767px) {
   .navbar {
@@ -3143,7 +3145,7 @@ img {
     text-align: center;
     display: inline-block;
     color: white;
-    background: #4a4d50;
+    background: #0a742a;
     height: 40px;
     line-height: 38px;
     -webkit-border-radius: 4px;
@@ -3155,10 +3157,10 @@ img {
     font-size: 1.875rem;
   }
   .navbar a.toggle:hover {
-    background: #565a5d;
+    background: #0a742a;
   }
   .navbar a.toggle:active, .navbar a.toggle.active {
-    background: #3e4043;
+    background: #0a742a;
   }
 }
 
@@ -3211,7 +3213,7 @@ img {
     left: 0;
     overflow: hidden;
     text-align: center;
-    background: #3e4043;
+    background: #oa742a;
   }
   .navbar ul.active {
     height: auto;
@@ -3525,7 +3527,7 @@ img {
 .gumby-no-touch .navbar ul li:hover > a,
 .gumby-touch .navbar ul li.active > a {
   position: relative;
-  background: #868d92;
+  background: #0a742a;
   z-index: 1000;
 }
 
@@ -9518,3 +9520,4 @@ input::-moz-focus-inner {
   position: relative;
   top: 10px;
 }
+
