@@ -1,3 +1,35 @@
+#nav {
+ background: #20b24b;
+}
+
+.navbar {
+  width: 100%;
+  min-height: 60px;
+  margin: 0px auto;
+  margin-bottom: 0px;
+  background: #20b24b;
+  position: relative; 
+}
+
+ .sixteen.colgrid .row .pull_eight.twelve.columns {
+  margin-bottom: 0px;
+  background: #20b24b;
+}
+
+.gumby-no-touch .navbar ul li:hover > a,
+.gumby-touch .navbar ul li.active > a {
+  position: relative;
+  background: #868d92;
+}
+
+.navbar a.toggle:hover {
+  background: #0a742a;
+}
+
+.navbar a.toggle:active, .navbar a.toggle.active {
+  background: #0a742a;
+}
+
 .site-header {
   background-position: 50% 0px;
   background-image: url("../img/bg.jpg");
