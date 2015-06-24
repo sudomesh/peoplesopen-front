@@ -1,17 +1,16 @@
-#nav {
- background: #20b24b;
-}
 
 .navbar {
-  width: 100%;
-  min-height: 60px;
-  margin: 0px auto;
-  margin-bottom: 0px;
   background: #20b24b;
-  position: relative; 
+  max-width:none;
+  margin-bottom:0;
 }
 
- .sixteen.colgrid .row .pull_eight.twelve.columns {
+.navbar ul {
+  max-width:1000px;
+  margin: 0 auto;
+}
+
+sixteen.colgrid .row .pull_eight.twelve.columns {
   margin-bottom: 0px;
   background: #20b24b;
 }
