@@ -50,7 +50,7 @@ sixteen.colgrid .row .pull_eight.twelve.columns {
 
 @media screen and (max-width: 468px) {
   .logo {
-    font-size: 50px;
+    font-size: 45px;
   }
   .btn-docs {
     border-color: #20b24b;
