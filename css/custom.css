@@ -54,6 +54,11 @@ sixteen.colgrid .row .pull_eight.twelve.columns {
   border-color: #20b24b;
 }
 
+.btn-donate {
+  background-color: #ca2470;
+  display: inline-block
+}
+
 .footer-info a {
   color: white;
 }
