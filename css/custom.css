@@ -101,10 +101,10 @@ sixteen.colgrid .row .pull_eight.twelve.columns {
 
 newsletter-signup-form {
   margin: 0;
-  padding: 0 0 50px;
+  padding: 0;
 }
 #mc_embed_signup form {
-  padding: 0;
+  padding: 0 0 50px;
   text-align: center;
 }
 .mc-field-group {
