@@ -3,6 +3,8 @@ title: Swag
 layout: two-columns
 ---
 
+## Swag
+
 #### Print stickers, make t-shirts, or draw more logos!
 
 <a href="https://github.com/sudomesh/propaganda/blob/master/stickers/byoi_magenta_logo.png" /target="_target"><img src="https://github.com/sudomesh/propaganda/blob/master/stickers/byoi_magenta_logo.png?raw=true" width="50%"/></a>

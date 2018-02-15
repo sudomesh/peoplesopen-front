@@ -3,6 +3,8 @@ title: Join the Network
 layout: two-columns
 ---
 
+## Join the Network
+
 <p> If you would like to host a node on the Peoples Open Network or just spread the word about mesh networks, here are the best ways to get involved:
 <h5 style="padding-left: 30px;">Submit a <a href="node-request.html">request to host a node at your location</a>.</h5>
 <h5 style="padding-left: 30px;">Stop by our weekly meeting/hacknight, Tuesdays 7:30pm at the <a href="https://omnicommons.org">Omni Commons</a>.</h5>

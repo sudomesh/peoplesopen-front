@@ -3,6 +3,8 @@ title: Documentation
 layout: two-columns
 ---
 
+## Documentation
+
 <p>
     The People's Open Network is a mesh network. This makes it different from what most people imagine to be "the Internet," though it is compatible with and can perform the same functions as traditional internet. 
 </p>

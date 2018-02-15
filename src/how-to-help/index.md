@@ -3,6 +3,8 @@ title: How to Help
 layout: two-columns
 ---
 
+## How to Help
+
 <p> Mesh networks don't happen by themselves, they require a ton of effort and a lot of collaboration. If you would like to help out, there are <strong>several roles</strong> that anyone (with the right motivation) can fulfill.
     <ul>
     <li><h5>Community Organizer and/or Educator</h5>

@@ -3,6 +3,8 @@ title: Development
 layout: two-columns
 ---
 
+## Development
+
 <p>The main development team of the People Open Network technology, <a href="http://sudomesh.org">Sudo Mesh</a>, is always seeking collaborators and contributors on various projects:
 <ul>
     <li><h5>Deploying a proof-of-concept test network in the <a href="http://www.geonames.org/5378538">East Bay</a></h5><li> 

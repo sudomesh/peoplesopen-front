@@ -3,6 +3,8 @@ title: Workshops
 layout: two-columns
 ---
 
+## Workshops
+
 Every few months, some of those behind the People's Open Network organize an event to raise awareness and host skillshares about decentralized community networks. These have been called Build Your Own Internet, or BYOI, workshops. However, we encourage these workshops to evolve and shift in focus as more people get involved in the People's Open Network.
 
 The objective of BYOI workshops has been two-fold:
