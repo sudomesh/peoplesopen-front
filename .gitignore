@@ -1,3 +1,5 @@
 /blog/**
 /gardenmesh/**
 /meshygarden.tsv
+node_modules
+web
