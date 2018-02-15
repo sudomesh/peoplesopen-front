@@ -1,0 +1,25 @@
+{# START: Site Header #}
+<header role="banner">
+</header>
+{# /END: Site Header #}
+
+<main role="main" class="sub-page">
+  <div class="row">
+    <div class="eight columns">
+      <h1 class="row page-title">{{ page.title }}</h1>
+      <section class="row">{{ body }}</section>
+    </div>
+    <div class="four columns">
+      <div id="sidebar" role="complementary">
+      <ul>
+        <h5 class="widget-title"> Participate</h5>
+        <h3><a href="http://sudomesh.org" style>Let's Hack</a></h3>
+        <p>Learn, Do, Share, Grow.</p>
+        <h3>The Mesh in Action</h3>
+        <a href="https://monitor.sudomesh.org/cacti/graph.php?action=view&local_graph_id=217&rra_id=all">Exit Node performance<br/><img src="/assets/images/cacti_sidebar.png" /></a>
+        <a href="https://monitor.sudomesh.org/smokeping/smokeping.cgi?target=Mesh">Mesh Nodes performance<br/><img src="/assets/images/smokeping_sidebar.png" /></a>
+      </ul>
+    </div>
+    </div>
+  </div>
+</main>

@@ -1,0 +1,101 @@
+{##
+ # Main template for all pages.
+ #
+ # Work in progress. This template adds the main menu and footer to each page.
+ # It also ensures that the CSS and JS files are loaded.
+ #
+ # Available variables:
+ # - html_title: Title for <html><head><title></title></head></html>.
+ # - html_description: Title for <html><head><<meta name="description"></head></html>.
+ # - html_keywords: Title for <html><head><meta name="keywords"></head></html>.
+ # - body: Rendered content for <html><body><main></main></body></html>.
+ # - page: Array containing the variables for the specific page that is rendered.
+ #}
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]><html class="no-js ie9" lang="en"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 9]><!--><html class="" lang="en"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ html_title }}</title>
+    {% if html_description %}
+      <meta name="description" content="{{ html_description }}">
+    {% endif %}
+    {% if html_keywords %}
+      <meta name="keywords" content="{{ html_keywords }}">
+    {% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link rel="stylesheet" href="/assets/stylesheets/main.css">
+    <script src="/assets/javascript/libs/modernizr-2.6.2.min.js"></script>
+  </head>
+
+  <body>
+
+    {# START: Top Navbar #}
+    <div id="main-nav">
+      <div class="row navbar">
+        <a class="toggle" href="#" gumby-trigger=".navbar > ul"> <i class="icon-menu"></i> </a>
+        <ul id="menu-main" class="twelve columns">
+          <li><a href="/">Home</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="http://peoplesopen.net/blog">Blog</a></li>
+          <li><a href="/join-the-network">Join</a></li>
+          <li><a href="/how-to-help">Help Out</a></li>
+          <li><a href="/developer">Develop</a></li>
+          <li><a href="/documentation">Docs</a></li>
+          <li><a href="/map">Map</a></li>
+          <li><a href="/swag">Swag</a></li>
+          <li><a href="https://www.patreon.com/peoplesopennet">Donate</a></li>
+        </ul>
+      </div>
+    </div>
+    {# END: Top Navbar #}
+
+    {{ body }}
+
+    {# START: Site Footer #}
+    <footer role="contentinfo" class="site-footer">
+      <div id="mc_embed_signup" class="row newsletter-signup-form">
+        {# Begin MailChimp Signup Form #}
+        <form action="//peoplesopen.us16.list-manage.com/subscribe/post?u=3d4dfbcfc8f857220fbcdadd6&amp;id=202be80834" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <div id="mc_embed_signup_scroll">
+            <label for="mce-EMAIL">Get the Newsletter</label>
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3d4dfbcfc8f857220fbcdadd6_202be80834" tabindex="-1" value=""></div>
+
+            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+          </div>
+        </form>
+        {# End mc_embed_signup #}
+      </div>
+      <div class="row footer-info">
+        {# START: Copyright Notice #}
+        <div class="six columns">
+          <p class="footer-copyright">Photograph of Lake Merritt by <a href="https://commons.wikimedia.org/wiki/File:Closeup_aerial_view_of_Downtown_Oakland_and_Lakeside_Park.jpg">dcoetzee</a>.</p>
+        </div>
+        <div class="footer-copyright" style="float:right;text-align:right;">
+          <p><!--[if lte IE 8]><span style="filter: FlipH; -ms-filter: "FlipH"; display: inline-block;"><![endif]--><span style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;">©</span><!--[if lte IE 8]></span><![endif]--> CopyLeft <a href="http://peoplesopen.net/">peoplesopen.net</a>, All Wrongs Reversed, <script type="text/javascript">var d=new Date();var year=d.getFullYear();document.write(year);</script>.</p>
+        </div> 
+        {# END: Copyright Notice #}
+      </div>
+    </footer>
+    {# END: Site Footer #}
+
+    {# START: Footer Scripts #}
+    <script>/*<![CDATA[*/var oldieCheck=Boolean(document.getElementsByTagName('html')[0].className.match(/\soldie\s/g));if(!oldieCheck){document.write('<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"><\/script>');}else{document.write('<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"><\/script>');}/*]]>*/</script>
+    <script>/*<![CDATA[*/if(!window.jQuery){if(!oldieCheck){document.write('<script src="js/libs/jquery-2.0.2.min.js"><\/script>');}else{document.write('<script src="/assets/javascript/libs/jquery-1.10.1.min.js"><\/script>');}}/*]]>*/</script>
+    <script src="/assets/javascript/libs/gumby.min.js"></script>
+    <script src="/assets/javascript/plugins/waypoints.min.js"></script>
+    <script src="/assets/javascript/plugins/placeholders.js"></script>
+    <script src="/assets/javascript/theme.js"></script>
+    {# END: Footer Scripts #}
+
+  </body>
+</html>

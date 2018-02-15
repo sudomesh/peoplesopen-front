@@ -1,0 +1,5 @@
+---
+site_name: "People's Open Network"
+paths:
+  src: './src'
+  dest: './web'
