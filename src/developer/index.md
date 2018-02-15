@@ -13,10 +13,10 @@ layout: two-columns
     <li><h5>Improving or replacing our <a href="https://github.com/sudomesh/makenode">makenode script</a></h5></li>
     <li><h5><a href= "http://buildyourowninter.net">buildyourowninter.net</a>, a collaborative resource for community network projects.<h5><li>
     <li><h5><a href="https://disaster.radio">disaster.radio</a>, a disaster-resilient communications network powered by the sun.</h5></li>
-    <li><h5><a href="https://peoplesopen.net/gardenmesh">Garden Mesh</a>, a collaborative project with <a href="http://www.counterculturelabs.org/">Counter Culture Labs</a></h5></li>
+    <li><h5><a href="/gardenmesh">Garden Mesh</a>, a collaborative project with <a href="http://www.counterculturelabs.org/">Counter Culture Labs</a></h5></li>
     <li><h5>Keeping <a href="https://github.com/sudomesh/peoplesopen-front">peopleopen.net website</a> up-to-date</h5></li>
-    <li><h5>Help plan the next <a href="https://peoplesopen.net/workshop">BYOI workshop</a>! Maybe it could take place in your neighborhood?</h5><li>
+    <li><h5>Help plan the next <a href="/workshop">BYOI workshop</a>! Maybe it could take place in your neighborhood?</h5><li>
 </ul>
-Our network and all of our projects use open content, open source software, and inexpensive off-the-shelf hardware. <a title="Documentation" href="documentation.html">The network</a> is designed to be replicable, and <a href="https://github.com/sudomesh">our code</a>, reusable. Feel <a href="https://freedomdefined.org/Definition">free (as in libre)</a> to start your own People's Open Network. 
+Our network and all of our projects use open content, open source software, and inexpensive off-the-shelf hardware. <a title="Documentation" href="/documentation">The network</a> is designed to be replicable, and <a href="https://github.com/sudomesh">our code</a>, reusable. Feel <a href="https://freedomdefined.org/Definition">free (as in libre)</a> to start your own People's Open Network. 
 </p>
 <iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="https://colmdoyle.github.io/gh-activity/gh-activity.html?user=sudomesh&type=user" width="100%" height="400"></iframe>
