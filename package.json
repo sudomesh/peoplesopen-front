@@ -3,7 +3,8 @@
   "description": "Builds the peoplesopen.net website.",
   "private": true,
   "scripts": {
-    "install": "mkdir -p ./web"
+    "install": "mkdir -p ./web",
+    "publish": "npx gulp && scp -r web/* root@peoplesopen.net:/var/www/peoplesopen.net/public-current"
   },
   "devDependencies": {
     "browser-sync": "^2.18.13",

@@ -67,6 +67,13 @@ And this one rebuilds the `web/` directory with your latest changes:
 npx gulp
 ```
 
+### Publish 
+
+After gaining access to webserver, run 
+
+```
+npm run publish
+```
 
 #### Possibly deprecated info below
 
