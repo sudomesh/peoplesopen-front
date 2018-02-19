@@ -1,6 +1,44 @@
-# PeoplesOpen.Net Front Page
+# PeoplesOpen.Net
 
-A landing page for [peoplesopen.net](http://peoplesopen.net/).
+This repo stores the content and builds the static html for the [peoplesopen.net](http://peoplesopen.net/) website, excluding the `blog/` and `gardenmesh/` directories.
+
+### Make changes
+
+If you want to change the text/links/images on a page, simply edit the `index.md` file in the corresponding page directory in `src/`.
+
+If you want to add a new page that will live at, say, https://peoplesopen.net/sour-raccoons, create the `src/sour-raccoons` directory, and put an `index.md` in it.
+
+### View your changes locally
+
+First you'll need to install [node.js](https://nodejs.org). Then:
+
+```
+cd peoplesopen-front
+npm install               (install all the dependencies needed by our gulpfile)
+npm install -g npx        (npx comes with new versions of npm)
+```
+
+Now you're ready. This command runs a local webserver:
+
+```
+npx gulp webserver
+```
+
+And this one rebuilds the `web/` directory with your latest changes:
+
+```
+npx gulp
+```
+
+### Publish 
+
+After gaining ssh access to the peoplesopen.net webserver, run:
+
+```
+npm run publish
+```
+
+which is just an alias for `npx gulp && scp -r web/* root@peoplesopen.net:/var/www/peoplesopen.net/public-current`.
 
 ### Structure
 
@@ -38,45 +76,3 @@ A landing page for [peoplesopen.net](http://peoplesopen.net/).
 - package-lock.json       # these files keep track of dependencies used by the gulpfile 
 - package.json
 ```
-
-### Making changes
-
-If you want to change the text/links/images on a page, simply edit the `index.md` file in the corresponding page directory in `src/`.
-
-If you want to add a new page that will live at, say, https://peoplesopen.net/sour-raccoons, create the `src/sour-raccoons` directory, and put an `index.md` in it.
-
-### Viewing your changes locally
-
-First you'll need to install [node.js](https://nodejs.org). Then:
-
-```
-cd peoplesopen-front
-npm install               (install all the dependencies needed by our gulpfile)
-npm install -g npx        (npx comes with new versions of npm)
-```
-
-Now you're ready. This command runs a local webserver:
-
-```
-npx gulp webserver
-```
-
-And this one rebuilds the `web/` directory with your latest changes:
-
-```
-npx gulp
-```
-
-### Publish 
-
-After gaining access to webserver, run 
-
-```
-npm run publish
-```
-
-#### Possibly deprecated info below
-
-Forked from [martini](https://github.com/codegangsta/martini) gh-pages branch.
-
-to update, login to peoplesopen, and do a git pull --rebase in ```/var/www/peoplesopen.net/public``` . Note that this excludes the wordpress assets in the ```blog/``` directory.
