@@ -20,10 +20,10 @@ The objective of BYOI workshops has been two-fold:
 The next BYOI will take place Spring 2018 — the exact date and location is To Be Decided. To stay up to date and learn about our next workshop, sign up for [our newsletter](http://peoplesopen.us16.list-manage.com/subscribe?u=3d4dfbcfc8f857220fbcdadd6&id=202be80834).
 
 Previous BYOI Workshops:
-- BYOI 4.0 - 27 January 2018
+- BYOI 4.0 - 27 January 2018 - [Panel Recording](https://www.youtube.com/watch?v=WuuE8lHgP5c)
 - BYOI 3.0 - 23 Sept 2017
 - BYOI 2.0 - 1 July 2017
-- BYOI 1.0 - 18 March 2017
+- BYOI 1.0 - 18 March 2017 - [Panel Recording](https://www.youtube.com/watch?v=wA7FNV6U8rU)
 
 #### Description of Build Your Own Internet Workshop January 2018
 
