@@ -19,4 +19,4 @@ layout: two-columns
 </ul>
 Our network and all of our projects use open content, open source software, and inexpensive off-the-shelf hardware. <a title="Documentation" href="/documentation">The network</a> is designed to be replicable, and <a href="https://github.com/sudomesh">our code</a>, reusable. Feel <a href="https://freedomdefined.org/Definition">free (as in libre)</a> to start your own People's Open Network. 
 </p>
-<iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="https://colmdoyle.github.io/gh-activity/gh-activity.html?user=sudomesh&type=user" width="100%" height="400"></iframe>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="https://cdoyle.me/gh-activity/gh-activity.html?user=sudomesh&type=user" width="100%" height="400"></iframe>
