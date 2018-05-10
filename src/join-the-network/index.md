@@ -12,7 +12,7 @@ layout: two-columns
 <h5 style="padding-left: 30px;">Get on the <a href="https://sudoroom.org/lists/listinfo/mesh">mesh mailing list</a>.</h5>
 <h5 style="padding-left: 30px;">Find out how to contribute remotely by visiting the <a href="/developer">development page</a>.</h5>
 <h5 style="padding-left: 30px;">Use or remix our <a href="http://freedomdefined.org/Definition">free-culture</a> licensed <a href="https://github.com/sudomesh/propaganda">propaganda</a>.</h5>
-<h5 style="padding-left: 30px;">Chat on IRC: #peoplesopen.net on <a href="http://webchat.freenode.net/?channels=peoplesopen.net">Freenode</a></h5>
+<h5 style="padding-left: 30px;"><a href="https://peoplesopen.net/chat">Chat on RocketChat</a> or IRC: #peoplesopen.net on <a href="http://webchat.freenode.net/?channels=peoplesopen.net">Freenode</a></h5>
 <br/>
 
 However, being part of a mesh network is more than just hosting a node at your home.
