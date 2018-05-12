@@ -1,5 +1,7 @@
 # PeoplesOpen.Net
 
+[![Build Status](https://travis-ci.org/sudomesh/peoplesopen-front.svg?branch=master)](https://travis-ci.org/sudomesh/peoplesopen-front)
+
 This repo stores the content and builds the static html for the [peoplesopen.net](http://peoplesopen.net/) website, excluding the `blog/` and `gardenmesh/` directories.
 
 ### Make changes
