@@ -4,7 +4,11 @@
   "private": true,
   "scripts": {
     "install": "mkdir -p ./web",
-    "publish": "npx gulp && scp -r web/* root@peoplesopen.net:/var/www/peoplesopen.net/public-current"
+    "build": "npx gulp",
+    "prestart": "npx gulp",
+    "start": "npx gulp webserver",
+    "publish": "npx gulp && scp -r web/* root@peoplesopen.net:/var/www/peoplesopen.net/public-current",
+    "test": "node test"
   },
   "devDependencies": {
     "browser-sync": "^2.18.13",
