@@ -1,0 +1,13 @@
+{
+  "name": "peoplesopen-front",
+  "scripts": {},
+  "env": {},
+  "formation": {
+    "web": {
+      "size": "free"
+    }
+  },
+  "addons": [],
+  "buildpacks": []
+}
+
