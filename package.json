@@ -13,6 +13,7 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.4.0",
+    "gulp": "https://registry.npmjs.org/gulp/-/gulp-3.9.1.tgz",
     "gulp-webserver": "^0.9.1",
     "tape": "^4.8.0"
   },
