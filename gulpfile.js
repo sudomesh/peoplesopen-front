@@ -38,6 +38,7 @@ gulp.task('webserver', function() {
     .pipe(webserver({
       livereload: true,
       directoryListing: false,
-      open: true
+      open: true,
+      port: process.env.PORT
     }));
 });
