@@ -6,7 +6,7 @@
     "install": "mkdir -p ./web",
     "build": "npx gulp",
     "prestart": "npx gulp",
-    "start": "static-server -p ${PORT-8000}",
+    "start": "static-server -p ${PORT-8000} web",
     "publish": "npx gulp && scp -r web/* root@peoplesopen.net:/var/www/peoplesopen.net/public-current",
     "test": "node test"
   },
