@@ -6,7 +6,7 @@
     "install": "mkdir -p ./web",
     "build": "npx gulp",
     "prestart": "npx gulp",
-    "start": "npx gulp webserver",
+    "start": "static-server -p ${PORT-8000}",
     "publish": "npx gulp && scp -r web/* root@peoplesopen.net:/var/www/peoplesopen.net/public-current",
     "test": "node test"
   },
@@ -19,6 +19,7 @@
     "eslint-plugin-react": "^7.4.0",
     "gulp": "https://registry.npmjs.org/gulp/-/gulp-3.9.1.tgz",
     "gulp-webserver": "^0.9.1",
+    "static-server": "^2.2.1",
     "tape": "^4.8.0"
   },
   "dependencies": {

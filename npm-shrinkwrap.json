@@ -249,7 +249,7 @@
     },
     "array-uniq": {
       "version": "1.0.3",
-      "from": "array-uniq@>=1.0.1 <2.0.0",
+      "from": "array-uniq@>=1.0.2 <2.0.0",
       "resolved": "https://registry.npmjs.org/array-uniq/-/array-uniq-1.0.3.tgz"
     },
     "array-unique": {
@@ -332,7 +332,7 @@
     },
     "atob": {
       "version": "2.1.1",
-      "from": "atob@>=2.0.0 <3.0.0",
+      "from": "atob@>=2.1.1 <3.0.0",
       "resolved": "https://registry.npmjs.org/atob/-/atob-2.1.1.tgz"
     },
     "aws-sign2": {
@@ -510,7 +510,7 @@
     },
     "brace-expansion": {
       "version": "1.1.11",
-      "from": "brace-expansion@>=1.1.7 <2.0.0",
+      "from": "brace-expansion@>=1.0.0 <2.0.0",
       "resolved": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.11.tgz"
     },
     "braces": {
@@ -1607,6 +1607,12 @@
       "resolved": "https://registry.npmjs.org/file-entry-cache/-/file-entry-cache-2.0.0.tgz",
       "dev": true
     },
+    "file-size": {
+      "version": "0.0.5",
+      "from": "file-size@0.0.5",
+      "resolved": "https://registry.npmjs.org/file-size/-/file-size-0.0.5.tgz",
+      "dev": true
+    },
     "filename-regex": {
       "version": "2.0.1",
       "from": "filename-regex@>=2.0.0 <3.0.0",
@@ -2013,7 +2019,7 @@
     },
     "gulp": {
       "version": "3.9.1",
-      "from": "gulp@>=3.9.1 <4.0.0",
+      "from": "https://registry.npmjs.org/gulp/-/gulp-3.9.1.tgz",
       "resolved": "https://registry.npmjs.org/gulp/-/gulp-3.9.1.tgz"
     },
     "gulp-data": {
@@ -2359,7 +2365,7 @@
     },
     "inherits": {
       "version": "2.0.3",
-      "from": "inherits@>=2.0.0 <3.0.0",
+      "from": "inherits@>=2.0.1 <2.1.0",
       "resolved": "https://registry.npmjs.org/inherits/-/inherits-2.0.3.tgz"
     },
     "ini": {
@@ -2687,6 +2693,12 @@
       "version": "1.0.2",
       "from": "is-windows@>=1.0.2 <2.0.0",
       "resolved": "https://registry.npmjs.org/is-windows/-/is-windows-1.0.2.tgz"
+    },
+    "is-wsl": {
+      "version": "1.1.0",
+      "from": "is-wsl@>=1.1.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/is-wsl/-/is-wsl-1.1.0.tgz",
+      "dev": true
     },
     "isarray": {
       "version": "0.0.1",
@@ -4309,6 +4321,56 @@
           "version": "0.2.5",
           "from": "define-property@>=0.2.5 <0.3.0",
           "resolved": "https://registry.npmjs.org/define-property/-/define-property-0.2.5.tgz"
+        }
+      }
+    },
+    "static-server": {
+      "version": "2.2.1",
+      "from": "static-server@latest",
+      "resolved": "https://registry.npmjs.org/static-server/-/static-server-2.2.1.tgz",
+      "dev": true,
+      "dependencies": {
+        "ansi-regex": {
+          "version": "0.2.1",
+          "from": "ansi-regex@>=0.2.0 <0.3.0",
+          "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz",
+          "dev": true
+        },
+        "ansi-styles": {
+          "version": "1.1.0",
+          "from": "ansi-styles@>=1.1.0 <2.0.0",
+          "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-1.1.0.tgz",
+          "dev": true
+        },
+        "chalk": {
+          "version": "0.5.1",
+          "from": "chalk@>=0.5.1 <0.6.0",
+          "resolved": "https://registry.npmjs.org/chalk/-/chalk-0.5.1.tgz",
+          "dev": true
+        },
+        "has-ansi": {
+          "version": "0.1.0",
+          "from": "has-ansi@>=0.1.0 <0.2.0",
+          "resolved": "https://registry.npmjs.org/has-ansi/-/has-ansi-0.1.0.tgz",
+          "dev": true
+        },
+        "opn": {
+          "version": "5.3.0",
+          "from": "opn@>=5.2.0 <6.0.0",
+          "resolved": "https://registry.npmjs.org/opn/-/opn-5.3.0.tgz",
+          "dev": true
+        },
+        "strip-ansi": {
+          "version": "0.3.0",
+          "from": "strip-ansi@>=0.3.0 <0.4.0",
+          "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.3.0.tgz",
+          "dev": true
+        },
+        "supports-color": {
+          "version": "0.2.0",
+          "from": "supports-color@>=0.2.0 <0.3.0",
+          "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-0.2.0.tgz",
+          "dev": true
         }
       }
     },
