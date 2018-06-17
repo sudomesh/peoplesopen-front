@@ -16,3 +16,7 @@ layout: two-columns
 #### Partners like [sudomesh](http://sudomesh.org/) help develop software and assemble hardware systems to realize People's Open. If you’re interested in becoming a participating partner in People’s Open Network, please [contact us](mailto:info@peoplesopen.net)!
 
 [![sudomesh_logo](/assets/images/sudomesh_logo.jpg)](http://sudomesh.org/)
+
+[![Internet Archive](https://commons.wikimedia.org/wiki/File:Internet_Archive_logo_and_wordmark.svg)](https://archive.org/)
+
+
