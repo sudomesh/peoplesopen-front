@@ -17,6 +17,6 @@ layout: two-columns
 
 [![sudomesh_logo](/assets/images/sudomesh_logo.jpg)](http://sudomesh.org/)
 
-[![Internet Archive](https://commons.wikimedia.org/wiki/File:Internet_Archive_logo_and_wordmark.svg)](https://archive.org/)
+[![Internet Archive](/assets/images/archivelogo.png)](https://archive.org/)
 
 
