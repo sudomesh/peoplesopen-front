@@ -5,6 +5,8 @@ layout: two-columns
 
 ## Workshops
 
+Our _Stable_ Networks [handout](https://github.com/sudomesh/propaganda/blob/master/handouts/our-networks.pdf), [slides](https://cryptpad.fr/slide/#/2/slide/view/Q7uOjmo75Ua4R+L5Scjug9doHfl52XGMdRu2frmTWQk/) 
+
 Every few months, some of those behind the People's Open Network organize an event to raise awareness and host skillshares about decentralized community networks. These have been called Build Your Own Internet, or BYOI, workshops. However, we encourage these workshops to evolve and shift in focus as more people get involved in the People's Open Network.
 
 The objective of BYOI workshops has been two-fold:
