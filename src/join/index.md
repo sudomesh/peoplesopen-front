@@ -5,15 +5,12 @@ layout: two-columns
 
 ## Join the Network
 
-<p> If you would like to host a node on the Peoples Open Network or just spread the word about mesh networks, here are the best ways to get involved:
-<h5 style="padding-left: 30px;">Submit a <a href="/node-request">request to host a node at your location</a>.</h5>
-<h5 style="padding-left: 30px;">Stop by our weekly meeting/hacknight, Tuesdays 7:30pm at the <a href="https://omnicommons.org">Omni Commons</a>.</h5>
-<h5 style="padding-left: 30px;">Email us at <a href="mailto:info@peoplesopen.net">info@peoplesopen.net</a>.</h5>
-<h5 style="padding-left: 30px;">Get on the <a href="https://sudoroom.org/lists/listinfo/mesh">mesh mailing list</a>.</h5>
-<h5 style="padding-left: 30px;">Find out how to contribute remotely by visiting the <a href="/developer">development page</a>.</h5>
-<h5 style="padding-left: 30px;">Use or remix our <a href="http://freedomdefined.org/Definition">free-culture</a> licensed <a href="https://github.com/sudomesh/propaganda">propaganda</a>.</h5>
-<h5 style="padding-left: 30px;"><a href="https://peoplesopen.net/chat">Chat on RocketChat</a> or IRC: #peoplesopen.net on <a href="http://webchat.freenode.net/?channels=peoplesopen.net">Freenode</a></h5>
-<br/>
+If you would like to host a node on the Peoples Open Network or just spread the word about mesh networks, check out these pages to see how you can get involved:
+
+<h5 style="padding-left: 30px;"><a href="/help-out">Help Out</a></h5>
+<h5 style="padding-left: 30px;"><a href="/request-a-node">Request a Node</a></h5>
+<h5 style="padding-left: 30px;"><a href="/contact">Contact</a></h5>
+</br>
 
 However, being part of a mesh network is more than just hosting a node at your home.
 
@@ -32,4 +29,3 @@ However, being part of a mesh network is more than just hosting a node at your h
     <li><strong>Repairing</strong> old electronics and <strong>prototyping</strong> new devices.</li>
     <li><strong>Writing grant applications!!!</strong></li>
     </ul>
-</p>

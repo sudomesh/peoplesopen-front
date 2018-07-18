@@ -40,16 +40,38 @@
     <div id="main-nav">
       <div class="row navbar">
         <a class="toggle" href="#" gumby-trigger=".navbar > ul"> <i class="icon-menu"></i> </a>
+      	<h1 title="People's Open Network | Home" class="four columns logo">
+	  <a href="/"><img src="/assets/images/navbar-logo.png" gumby-retina /></a>
+      	</h1>
         <ul id="menu-main" class="twelve columns">
-          <li><a href="/">Home</a></li>
-          <li><a href="/about">About</a></li>
-          <li><a href="https://peoplesopen.net/blog">Blog</a></li>
-          <li><a href="/join-the-network">Join</a></li>
-          <li><a href="/how-to-help">Help Out</a></li>
-          <li><a href="/developer">Develop</a></li>
-          <li><a href="/documentation">Docs</a></li>
-          <li><a href="/map">Map</a></li>
-          <li><a href="/swag">Swag</a></li>
+          <li>
+	    <a href="/about">About</a>
+              <div class="dropdown"><ul>
+                <li><a href="/about/workshops">Workshops</a></li>
+                <li><a href="https://peoplesopen.net/blog">Blog</a></li>
+              </ul></div>
+          </li>
+	  <li>
+            <a href="/learn">Learn</a>
+            <div class="dropdown"><ul>
+              <li><a href="/learn/faqs">FAQs</a></li>
+              <li><a href="/learn/development">Develop</a></li>
+	      <li><a href="/learn/build">Build</a></li>
+            </ul></div>
+          </li>
+	  <li>
+            <a href="/join">Join</a>
+            <div class="dropdown"><ul>
+              <li><a href="/join/help-out">Help Out</a></li>
+              <li><a href="/join/request-a-node">Request a Node</a></li>
+              <li><a href="/join/contact">Contact</a></li>
+            </ul></div>
+          </li>
+          <li><a href="/map">Map</a>
+            <div class="dropdown"><ul>
+              <li><a href="https://peoplesopen.net/monitor">Monitor</a></li>
+            </ul></div>
+	  </li>
           <li><a href="https://www.patreon.com/peoplesopennet">Donate</a></li>
         </ul>
       </div>

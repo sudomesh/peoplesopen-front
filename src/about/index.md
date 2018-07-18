@@ -2,7 +2,6 @@
 title: About
 layout: two-columns
 ---
-
 ## About
 
 #### Welcome to People's Open - a community-owned and operated wireless network for digital communications.

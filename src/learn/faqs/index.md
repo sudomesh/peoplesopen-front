@@ -1,9 +1,9 @@
 ---
-title: Documentation
+title: FAQs 
 layout: two-columns
 ---
 
-## Documentation
+## Frequently Asked Questions
 
 <p>
     The People's Open Network is a mesh network. This makes it different from what most people imagine to be "the Internet," though it is compatible with and can perform the same functions as traditional internet. 
@@ -25,8 +25,8 @@ layout: two-columns
             you can buy a compatible, off-the-shelf router and flash it with the appropriate firmware by following <a href="https://sudoroom.org/wiki/Mesh/WalkThrough">our guide</a>. 
 </p>
 <p>
-    Or, if that seems too complicated, come by one of our meetings and we'll help get you setup with a router so you can <a href="/join-the-network">join the network</a>.
+    Or, if that seems too complicated, come by one of our meetings and we'll help get you setup with a router so you can <a href="/join">join the network</a>.
 </p>
 <h4>Ok, but I want to help out more?</h4>
-Glad to hear! Let's see <a href="/how-to-help">how you can help</a>. 
+Glad to hear! Let's see <a href="/join/help-out">how you can help</a>. 
 </p>
