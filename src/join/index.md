@@ -7,9 +7,9 @@ layout: two-columns
 
 If you would like to host a node on the Peoples Open Network or just spread the word about mesh networks, check out these pages to see how you can get involved:
 
-<h5 style="padding-left: 30px;"><a href="/help-out">Help Out</a></h5>
-<h5 style="padding-left: 30px;"><a href="/request-a-node">Request a Node</a></h5>
-<h5 style="padding-left: 30px;"><a href="/contact">Contact</a></h5>
+<h5 style="padding-left: 30px;"><a href="/join/help-out">Help Out</a></h5>
+<h5 style="padding-left: 30px;"><a href="/join/request-a-node">Request a Node</a></h5>
+<h5 style="padding-left: 30px;"><a href="/join/contact">Contact</a></h5>
 </br>
 
 However, being part of a mesh network is more than just hosting a node at your home.
