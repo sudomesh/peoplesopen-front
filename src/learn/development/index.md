@@ -6,7 +6,7 @@ layout: two-columns
 ## Development
 
 The main development team of the People Open Network technology, [Sudo Mesh](https://sudomesh.org), is always seeking collaborators and contributors on various projects:
-* Deploying a proof-of-concept test network in the [East Bay](http://www.geonames.org/5378538);
+- Deploying a proof-of-concept test network in the [East Bay](http://www.geonames.org/5378538);
 * Hosting services on the mesh, such as [an etherpad-lite instance](https://sudoroom.org/wiki/Mesh/SudoPad), static copies of web pages, weather reporting, local commodity exchange;
 * Maintaining our custom Open Wrt firmware, see [current issues](https://github.com/sudomesh/sudowrt-firmware/issues);
 * [buildyourowninter.net](http://buildyourowninter.net), a collaborative resource for community network projects;
