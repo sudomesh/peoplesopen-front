@@ -7,25 +7,22 @@ layout: two-columns
 
 If you would like to host a node on the Peoples Open Network or just spread the word about mesh networks, check out these pages to see how you can get involved:
 
-<h5 style="padding-left: 30px;"><a href="/join/help-out">Help Out</a></h5>
-<h5 style="padding-left: 30px;"><a href="/join/request-a-node">Request a Node</a></h5>
-<h5 style="padding-left: 30px;"><a href="/join/contact">Contact</a></h5>
-</br>
+#### [Help Out](https://peoplesopen.net/join/help-out)
+#### [Request a Node](https://peoplesopen.net/join/request-a-node)
+#### [Contact Us](https://peoplesopen.net/join/contact)
 
 However, being part of a mesh network is more than just hosting a node at your home.
 
-<h4>What being part of a mesh network means:</h4>
-    <ul>
-    <li><strong>Getting people involved</strong> in open, community-owned and -operated networks.</li>
-    <li><strong>Talking</strong> to neighbors, friends, or any other human about mesh networks.</li>
-    <li><strong>Posting</strong> flyers in your neighborhood.</li>
-    <li><strong>Designing</strong> new posters, flyers, and other graphics.</li>
-    <li><strong>Organizing</strong> workshops, conference talks, or <a href="https://cryptoparty.in/">cryptoparties</a>.</li>
-    <li><strong>Mounting</strong> new nodes on rooftops.</li> 
-    <li><strong>Running wire</strong> and <strong>crimping</strong> ethernet cable.</li>
-    <li><strong>Flashing nodes</strong> with our custom firmware.</li>
-    <li><strong>Maintaining</strong> nodes that already are on the network.</li>
-    <li><strong>Developing</strong> and <strong>designing web apps</strong> that can run locally on the network.</li>
-    <li><strong>Repairing</strong> old electronics and <strong>prototyping</strong> new devices.</li>
-    <li><strong>Writing grant applications!!!</strong></li>
-    </ul>
+### What being part of a mesh network means:
+* __Getting people involved__ in open, community-owned and -operated networks;
+* __Talking__ to neighbors, friends, or any other human about mesh networks;
+* __Posting__ flyers in your neighborhood;
+* __Designing__ new posters, flyers, and other graphics;
+* __Organizing__ workshops, conference talks, or [cryptoparties](https://cryptoparty.in/);
+* __Mounting__ new nodes on rooftops;
+* __Running wire__ and __crimping__ ethernet cable;
+* __Flashing nodes__ with our custom firmware;
+* __Maintaining__ nodes that already are on the network;
+* __Developing__ and __designing web apps__ that can run locally on the network;
+* __Repairing<__ old electronics and __prototyping__ new devices;
+* __Writing grant applications!!!__
