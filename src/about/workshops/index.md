@@ -5,8 +5,6 @@ layout: two-columns
 
 ## Workshops
 
-The next BYOI workshop will take place on 18 November 2018 at the Omni Commons. To stay up to date and learn about our next workshop, sign up for [our newsletter](http://peoplesopen.us16.list-manage.com/subscribe?u=3d4dfbcfc8f857220fbcdadd6&id=202be80834).
-
 Every few months, some of those behind the People's Open Network organize an event to raise awareness and host skillshares about decentralized community networks. These have been called Build Your Own Internet, or BYOI, workshops. However, we encourage these workshops to evolve and shift in focus as more people get involved in the People's Open Network.
 
 The objective of BYOI workshops has been two-fold:
@@ -14,6 +12,8 @@ The objective of BYOI workshops has been two-fold:
 1) To expand people's understanding about the various problems facing the mainstream Internet and how decentralized, commmunity-controlled networks could be a way to build internets that are more open, localized, and democratic.
 
 2) To enable peer-to-peer skillshares and learning through hands-on demonstrations and workshops on various aspects of building community mesh networks.
+
+The next BYOI will take place on 18 November 2018 at the Omni Commons! To stay up to date and learn about our next workshop, sign up for [our newsletter](http://peoplesopen.us16.list-manage.com/subscribe?u=3d4dfbcfc8f857220fbcdadd6&id=202be80834).
 
 ![january 2018 byoi workshop](/assets/images/byoi_jan2018.jpeg)
 
