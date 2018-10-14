@@ -19,9 +19,10 @@ The objective of BYOI workshops has been two-fold:
 
 #### Build Your Own Internet
 
-The next BYOI will take place Spring 2018 — the exact date and location is To Be Decided. To stay up to date and learn about our next workshop, sign up for [our newsletter](http://peoplesopen.us16.list-manage.com/subscribe?u=3d4dfbcfc8f857220fbcdadd6&id=202be80834).
+The next BYOI will take place on 18 November 2018 at the Omni Commons. To stay up to date and learn about our next workshop, sign up for [our newsletter](http://peoplesopen.us16.list-manage.com/subscribe?u=3d4dfbcfc8f857220fbcdadd6&id=202be80834).
 
 Previous BYOI Workshops:
+- Mesh the Planet! Decentralized Web Summit Unconference - 4 August 2018
 - BYOI 4.0 - 27 January 2018 - [Panel Recording](https://www.youtube.com/watch?v=WuuE8lHgP5c)
 - BYOI 3.0 - 23 Sept 2017
 - BYOI 2.0 - 1 July 2017
