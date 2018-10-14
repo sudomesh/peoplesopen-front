@@ -43,6 +43,3 @@ The People’s Open Network is one such network, providing a liberating, people-
 Our closely affiliated partner, SudoMesh, has developed free and open source firmware that enables people to mesh their connections through their wifi routers and share their internet bandwidth with others. The hardware to enable this, home routers and rood-mounted antennae, have become even more affordable, costing between $20-$80 per device.
 
 We have the technology. Now it's up to us to connect with other members of the [Oakland/Bay Area] community to build this network. We need to talk to our neighbors, as well as local organizations and businesses, about the potential of mesh networks and convince them to join it by installing a node in their home or place of work.
-
-Our _Stable_ Networks [handout](https://github.com/sudomesh/propaganda/blob/master/handouts/our-networks.pdf), [slides](https://cryptpad.fr/slide/#/2/slide/view/Q7uOjmo75Ua4R+L5Scjug9doHfl52XGMdRu2frmTWQk/) 
-
