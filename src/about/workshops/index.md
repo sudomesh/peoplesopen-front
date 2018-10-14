@@ -5,8 +5,6 @@ layout: two-columns
 
 ## Workshops
 
-Our _Stable_ Networks [handout](https://github.com/sudomesh/propaganda/blob/master/handouts/our-networks.pdf), [slides](https://cryptpad.fr/slide/#/2/slide/view/Q7uOjmo75Ua4R+L5Scjug9doHfl52XGMdRu2frmTWQk/) 
-
 Every few months, some of those behind the People's Open Network organize an event to raise awareness and host skillshares about decentralized community networks. These have been called Build Your Own Internet, or BYOI, workshops. However, we encourage these workshops to evolve and shift in focus as more people get involved in the People's Open Network.
 
 The objective of BYOI workshops has been two-fold:
@@ -21,8 +19,8 @@ The objective of BYOI workshops has been two-fold:
 
 The next BYOI will take place on 18 November 2018 at the Omni Commons. To stay up to date and learn about our next workshop, sign up for [our newsletter](http://peoplesopen.us16.list-manage.com/subscribe?u=3d4dfbcfc8f857220fbcdadd6&id=202be80834).
 
-Previous BYOI Workshops:
-- Mesh the Planet! Decentralized Web Summit Unconference - 4 August 2018
+Previous Workshops:
+- Mesh the Planet! - 4 August 2018
 - BYOI 4.0 - 27 January 2018 - [Panel Recording](https://www.youtube.com/watch?v=WuuE8lHgP5c)
 - BYOI 3.0 - 23 Sept 2017
 - BYOI 2.0 - 1 July 2017
@@ -45,3 +43,6 @@ The People’s Open Network is one such network, providing a liberating, people-
 Our closely affiliated partner, SudoMesh, has developed free and open source firmware that enables people to mesh their connections through their wifi routers and share their internet bandwidth with others. The hardware to enable this, home routers and rood-mounted antennae, have become even more affordable, costing between $20-$80 per device.
 
 We have the technology. Now it's up to us to connect with other members of the [Oakland/Bay Area] community to build this network. We need to talk to our neighbors, as well as local organizations and businesses, about the potential of mesh networks and convince them to join it by installing a node in their home or place of work.
+
+Our _Stable_ Networks [handout](https://github.com/sudomesh/propaganda/blob/master/handouts/our-networks.pdf), [slides](https://cryptpad.fr/slide/#/2/slide/view/Q7uOjmo75Ua4R+L5Scjug9doHfl52XGMdRu2frmTWQk/) 
+
