@@ -34,6 +34,8 @@ gulp.task('clean', ['clean:files', 'clean:images', 'clean:js', 'clean:html', 'cl
 gulp.task('default', ['markdown', 'sass', 'js', 'images', 'files', 'fonts']);
 
 gulp.task('webserver', function() {
+  gulp.watch('./src/**/*', ['default']);
+  gulp.watch('./templates/**/*', ['default']);
   gulp.src('./web')
     .pipe(webserver({
       livereload: true,
