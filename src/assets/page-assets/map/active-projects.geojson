@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "omni-commons",
+        "name": "Omni Commons",
+        "style": "transform: translateX(-100%) translateY(-50%)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26727485656738,
+          37.842190287869684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "richmond-tower",
+        "name": "Richmond Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34452247619627,
+          37.92571664319361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "berkeley-marina",
+        "name": "Berkeley Marina",
+        "style": "transform: translateX(-100%) translateY(-50%)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31216430664061,
+          37.86753594762488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "peoples-park",
+        "name": "People's Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25716829299927,
+          37.865689532798086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "reed-brothers",
+        "name": "Reed Brothers",
+        "style": "transform: translateX(0%) translateY(-50%)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26340174674988,
+          37.83220889075932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "your-home",
+        "name": "You & Your Neighbors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2917366027832,
+          37.810326435534755
+        ]
+      }
+    }
+  ]
+}

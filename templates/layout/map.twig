@@ -1,0 +1,32 @@
+{# START: Site Header #}
+<header role="banner">
+</header>
+{# /END: Site Header #}
+
+<main role="main" class="sub-page">
+  <div class="map-container">
+    <div id="map"></div>
+  </div>
+  <div class="project-overlay">
+    <div class="default-text">Click on a label to learn more about a project.</div>
+    <div class="project-info richmond-tower">
+      <div class="project-title-container">
+        <div class="project-title">Richmond Tower</div>
+        <div class="close-button" onclick="hideProject()">
+          <img src="/assets/page-assets/map/images/close-button.png">
+        </div>
+      </div>
+      <div class="project-body-container">
+        <img class="project-image" src="/assets/page-assets/map/images/richmond-tower-1.jpg">
+        <div class="project-body">
+          <p>The Internet Archive has offered to donate gigabits of bandwidth to the People’s Open Network.</p>
+          <p>We mounted a 5GHz AirFiver on their tower in Richmond in January 2019, and now we need to complete the link.</p>
+          <p>We’re looking for a location with a clear line of site to both the Omni Commons and the Richmond Tower.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script src="/assets/page-assets/map/libs/leaflet.js"></script>
+<script src="/assets/page-assets/map/project-map.js"></script>
