@@ -3,6 +3,16 @@ title: Workshops
 layout: two-columns
 ---
 
+### NEXT WORKSHOP
+
+Build Your Own Internet
+
+WHEN: Sat May 4 2019 2-4 PM
+
+WHERE: Oakland Public Library - West Branch
+1801 Adeline Street
+Oakland, CA 94607
+
 ## Workshops
 
 Every few months, some of those behind the People's Open Network organize an event to raise awareness and host skillshares about decentralized community networks. These have been called Build Your Own Internet, or BYOI, workshops. However, we encourage these workshops to evolve and shift in focus as more people get involved in the People's Open Network.
