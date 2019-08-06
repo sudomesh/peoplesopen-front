@@ -13,7 +13,7 @@ The People's Open Network is a mesh network. This makes it different from what m
 The People's Open Network is a community-owned and -operated wireless mesh network. We use open source, peer-to-peer infrastructure to connect residences and businesses across neighborhoods in the San Francisco Bay Area. The decentralized, peer-to-peer nature of these networks makes it different from what most people imagine to be "the Internet." 
 
 Most people access "the Internet" by paying for a monthly subscription with a corporate service provider like Comcast or AT&T. One can imagine this as more of a hub and spoke model to connect to each other and others outside of their local area. A mesh network is different in that it:
-    1) enables people to connect directly to each other within local intranets — much like a Local Area Netowrk (LAN);
+    1) enables people to connect directly to each other within local intranets — much like a Local Area Network (LAN);
     2) allows those on the network to share bandwidth to the wider Internet; and
     3) is public infrastructure commons, instead of being privately-held and controlled infrastructure. 
     
