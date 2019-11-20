@@ -23,13 +23,13 @@ npm install -g npx        (npx comes with new versions of npm)
 Now you're ready. This command runs a local webserver:
 
 ```
-npx gulp webserver
+npm run dev
 ```
 
 And this one rebuilds the `web/` directory with your latest changes:
 
 ```
-npx gulp
+npm run build
 ```
 
 ### Publish 
