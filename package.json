@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "install": "mkdir -p ./web",
+    "build": "npx gulp",
     "publish": "npx gulp && scp -r web/* root@peoplesopen.net:/var/www/peoplesopen.net/public-current"
   },
   "devDependencies": {
