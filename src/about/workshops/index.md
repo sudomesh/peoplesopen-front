@@ -5,13 +5,9 @@ layout: two-columns
 
 ### NEXT WORKSHOP
 
-Build Your Own Internet
+Build Your Own Internet v7
 
-WHEN: Sat May 4 2019 2-4 PM
-
-WHERE: Oakland Public Library - West Branch
-1801 Adeline Street
-Oakland, CA 94607
+Our next event was scheduled for March 14, 2020 but has been postponed, new dates TBD.
 
 ## Workshops
 
