@@ -26,6 +26,7 @@ The next BYOI will take place on 18 November 2018 at the Omni Commons! To stay u
 #### Build Your Own Internet
 
 Previous Workshops:
+- BYOI 6.0 - 4 May 4 2019
 - BYOI 5.0 - 19 November 2018
 - Mesh the Planet! - 4 August 2018
 - BYOI 4.0 - 27 January 2018 - [Panel Recording](https://www.youtube.com/watch?v=WuuE8lHgP5c)
